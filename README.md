@@ -1,2 +1,1 @@
-# 2D-array-time-tables-user-input-
-algorithms uses 2D array to create time table based on what user enter
+Replace your program.cs file with my program.cs and hit the play button using visual code (purple 1) thats it XD
